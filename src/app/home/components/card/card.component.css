@@ -1,0 +1,31 @@
+.box {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.card {
+  background-color: white;
+  width: 15rem;
+  min-height: 20rem;
+}
+
+.tittle3 {
+  font-weight: 700;
+}
+
+.text {
+  font-family: 'Poppins', sans-serif;
+  font-weight: Lighter;
+  line-height: 1.9em;
+  letter-spacing: .05em;
+  font-size: 12px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 10px;
+  margin-inline-end: 5px;
+}
+
+img {
+  padding: 1rem;
+}

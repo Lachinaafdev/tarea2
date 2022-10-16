@@ -1,0 +1,43 @@
+section {
+  background-color: rgb(6, 6, 6);
+  padding-top: 10px;
+
+}
+
+.box {
+  width: 60%;
+  display: flex;
+  margin: 0 auto;
+
+
+}
+
+.col1,
+.col2,
+.col3,
+.col4 {
+  width: 25%;
+  padding: 5px;
+}
+
+.cBotton {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  font-size: 12px;
+  color: white;
+}
+
+input {
+  margin-top: 15px;
+  border-radius: 20px;
+  height: 25px;
+
+}
+
+.tittle2 {
+  font-size: 14px;
+}

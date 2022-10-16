@@ -1,0 +1,50 @@
+.box {
+
+  display: flex;
+  width: 60%;
+  margin: 0 auto;
+  padding-bottom: 30px;
+  padding-top: 10px;
+}
+
+.col1 {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.col1,
+.col2 {
+  width: 50%;
+}
+
+.col2 {
+  padding-left: 30px;
+
+}
+
+.cuadros {
+  padding-top: 1rem;
+  width: 10rem;
+  height: auto;
+  background-image: url("/assets/banner-home.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  margin-top: 12px;
+}
+
+.parrafo {
+  font-size: 12px;
+}
+
+ul {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  padding-left: 10px;
+}

@@ -1,0 +1,63 @@
+section {
+  padding-top: 2rem;
+  display: flex;
+  position: relative;
+  max-width: 60%;
+
+  margin: 0 auto;
+
+}
+
+.section_col1 {
+  width: 50%;
+  justify-content: end;
+  margin-right: 50px;
+
+}
+
+
+.section_col2 {
+  width: 50%;
+  height: 50%;
+  display: flex;
+
+}
+
+.section_col21 {
+  width: 15%;
+  padding-top: 1rem;
+}
+
+.section_col22 {
+  width: 80%;
+  margin-left: 5.5%;
+  font-size: 12px;
+}
+
+.stittle {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.orange {
+  color: orangered;
+  display: inline;
+}
+
+.black {
+  color: black;
+  display: inline;
+  padding: 10px;
+  font-weight: 700;
+
+}
+
+.bblack {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: white;
+  font-weight: 700;
+
+}

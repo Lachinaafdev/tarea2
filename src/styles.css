@@ -1,0 +1,61 @@
+/* You can add global styles to this file, and also import other style files */
+*********Estilos Generales*********/ * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  text-decoration: none;
+
+
+}
+
+html {
+  width: 100%;
+  height: 100vh;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+}
+
+.tittle {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  color: rgb(255, 91, 21);
+  font-size: 35px;
+}
+
+.tittle2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  font-size: 35px;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.tittle4 {
+  font-size: 25px;
+  margin-bottom: 0;
+}
+
+.borange {
+  background-color: rgb(255, 91, 21);
+  color: aliceblue;
+}
+
+
+
+
+body {
+  min-height: 100%;
+}
+
+button {
+  padding: 10px 35px 10px 35px;
+  border-radius: 2rem;
+  border: none;
+  margin-right: .5rem;
+
+}
