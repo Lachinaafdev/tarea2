@@ -7,10 +7,11 @@
 /bazel-out
 
 # Node
-/node_modules
+node_modules/
 npm-debug.log
 yarn-error.log
-
+.DS_Store // only include this if you are on a Mac
+dist/
 # IDEs and editors
 .idea/
 .project
@@ -40,3 +41,4 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
